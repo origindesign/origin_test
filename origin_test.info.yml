@@ -1,6 +1,6 @@
 name: 'Origin Test'
 type: module
-description: 'A test module for composer version 1'
+description: 'A test module for composer version 1.1'
 package: Custom
-version: '8.x-1.0'
+version: '8.x-1.1'
 core: 8.x
