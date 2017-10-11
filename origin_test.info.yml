@@ -1,5 +1,5 @@
 name: 'Origin Test'
 type: module
-description: 'A test module for composer'
+description: 'A test module for composer 123'
 package: Custom
 core: 8.x
