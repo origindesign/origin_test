@@ -1,6 +1,6 @@
 {
   "name": "origindesign/origin_test",
-  "description": "A test module for composer version 1.1",
+  "description": "A test module for composer version 1.2",
   "type": "drupal-module",
   "homepage": "https://github.com/origindesign/origin_test",
   "authors": [
